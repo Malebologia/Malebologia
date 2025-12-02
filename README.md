@@ -4,10 +4,8 @@ Este es mi portafolio web personal, diseñado como una interfaz tipo *notebook* 
 
 ---
 
-## 🌐 Demo en Línea
-*(Agrega aquí el link cuando lo publiques en GitHub Pages)*  
-Ejemplo:  
-https://malebologia.github.io/mi-portafolio/
+## 🌐 Demo en Línea 
+https://malebologia.github.io/portafolio/
 
 ---
 
@@ -82,13 +80,6 @@ Optimizado para dispositivos:
 - Móviles  
 
 ---
-
-## 🛠️ Instalación y Uso
-
-1. Clonar el repositorio:
-
-```bash
-git clone https://github.com/Malebologia/NOMBRE_DEL_REPO.git
 
 📄 Licencia
 
