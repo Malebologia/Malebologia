@@ -1,6 +1,6 @@
 # 💻 Portafolio Interactivo – Alonso Soto
 
-Este es mi portafolio web personal, diseñado como una interfaz tipo *notebook* con ventanas movibles que simulan un entorno de escritorio. Incluye secciones como perfil, contacto, redes sociales y una descripción personal, todo construido con un enfoque moderno, visual y responsive.
+Este es mi portafolio web personal, aun en proceso de creación.
 
 ---
 
