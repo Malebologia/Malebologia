@@ -6,10 +6,7 @@ Este es mi portafolio web personal, aun en proceso de creación.
 
 ## 🌐 Demo en Línea 
 https://malebologia.github.io/portafolio/
-https://malebologia.github.io/ProyectoMegaman/
 https://malebologia.github.io/solo_marcelina_proyecto/
-https://malebologia.github.io/Proyecto_triangulos/
-https://malebologia.github.io/Juego-Gato/
 
 ---
 
