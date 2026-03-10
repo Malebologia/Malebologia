@@ -26,6 +26,7 @@ Puedes ver algunos proyectos funcionando aquí:
 
 🔗 https://malebologia.github.io/portafolio/
 🔗 https://malebologia.github.io/solo_marcelina_proyecto/
+🔗 https://malebologia.github.io/solo-marcelina-proyecto-vue/
 
 ---
 
